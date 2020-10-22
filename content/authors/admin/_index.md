@@ -77,4 +77,4 @@ user_groups:
 
 My research interests focus on the power of digital engagement to spur advocacy on behalf of destinations, with an emphasis on the destination's historical and cultural attributes.  In addition to pursuing my PhD in Texts and Technology, I teach the Data Driven Decision Making course with UCF's Integrated Business program.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
