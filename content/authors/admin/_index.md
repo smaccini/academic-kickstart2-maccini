@@ -1,37 +1,43 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Shelley Maccini
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Instructor and PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Central Florida
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Completing the path from engagement to advocacy.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Digital Engagement
+- Data Analytics
+- Persuasive Communication
+- Professionalism and Ethics
+- Destinations
+- Historical and Cutlural Attributes
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD, Texts and Technology
+    institution: University of Central Florida
+    year: Expected 2025
+  - course: Masters, Business Administration
+    institution: University of Central Florida
+    year: 1998
+  - course: Juris Doctor
+    institution: George Washington University
+    year: 1995
+  - course: Bachelor of Science, Hotel Administration
+    institution: University of New Hampshire
+    year: 1990
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,6 +75,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research interests focus on the power of digital engagement to spur advocacy on behalf of destinations, with an emphasis on the destination's historical and cultural attributes.  In addition to pursuing my PhD in Texts and Technology, I teach the Data Driven Decision Making course with UCF's Integrated Business program.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
