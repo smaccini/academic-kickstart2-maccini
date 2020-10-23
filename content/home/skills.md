@@ -44,6 +44,12 @@ subtitle = ""
   name = "Excel"
   description = "100%"
 
+[[feature]]
+  icon = "globe-americas"
+  icon_pack = "fas"
+  name = "Destination Marketing"
+  description = "100%"
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
