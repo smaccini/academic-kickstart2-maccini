@@ -31,6 +31,18 @@ subtitle = ""
   icon_pack = "fab"
   name = "Markdown"
   description = "10%"
+  
+[[feature]]
+  icon = "chart-pie"
+  icon_pack = "fas"
+  name = "Data Visualizations"
+  description = "100%"
+    
+[[feature]]
+  icon = "microsoft"
+  icon_pack = "fab"
+  name = "Excel"
+  description = "100%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
