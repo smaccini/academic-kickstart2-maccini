@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Nature Based Tourism"
-event: "Southeast Tourism Society Spring Symposium"
+title: "Destination Social Media Campaign"
+event: "American Marketing Association Orlando"
 event_url:
 location:
 address:
@@ -16,12 +16,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-10-23T20:38:37-04:00
-# date_end: 2020-10-23T20:38:37-04:00
+date: 2013-05-15T12:00:00-04:00
+# date_end: 2020-10-24T16:18:03-04:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-# publishDate: 2020-10-23T20:38:37-04:00
+publishDate: 2020-10-24T16:18:03-04:00
 
 authors: []
 tags: []
