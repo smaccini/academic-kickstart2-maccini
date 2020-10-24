@@ -33,6 +33,33 @@ date_format = "Jan 2006"
   location = "Florida"
   date_start = "2015-08-01"
   date_end = "2017-08-01"
-  description = """Strategic planning, business intelligence, and destination learning."""
+  description = """"""
+
+[[experience]]
+  title = "Area Director of Sales and Marketing"
+  company = "Hilton Worldwide/Crestline Hotels and Resorts"
+  company_url = ""
+  location = "Florida"
+  date_start = "2013-07-01"
+  date_end = "2015-07-01"
+  description = """"""
+  
+[[experience]]
+  title = "Executive Director"
+  company = "Experience Kissimmee/Kissimmee CVB"
+  company_url = ""
+  location = "Florida"
+  date_start = "2013-06-01"
+  date_end = "1998-01-01"
+  description = """Progressively responsible positions from Research Analyst to Executive Director"""
+
+[[experience]]
+  title = "Statiscal Contral Analyst"
+  company = "Shades of Green Resort"
+  company_url = ""
+  location = "Florida"
+  date_start = "1996-09-01"
+  date_end = "1998-01-01"
+  description = """"""
 
 +++
