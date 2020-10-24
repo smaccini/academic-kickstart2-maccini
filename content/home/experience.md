@@ -49,8 +49,8 @@ date_format = "Jan 2006"
   company = "Experience Kissimmee/Kissimmee CVB"
   company_url = ""
   location = "Florida"
-  date_start = "2013-06-01"
-  date_end = "1998-01-01"
+  date_start = "1998-01-01"
+  date_end = "2013-06-01"
   description = """Progressively responsible positions from Research Analyst to Executive Director"""
 
 [[experience]]
