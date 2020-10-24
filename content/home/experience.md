@@ -24,19 +24,13 @@ date_format = "Jan 2006"
   location = "Florida"
   date_start = "2017-08-08"
   date_end = ""
-  description = """Lead Instructor for Data Driven Decision Making, Integrated Business progam in the College of Business Administration
-  Responsibilities include:
+  description = """Lead Instructor for Data Driven Decision Making in the Integrated Business progam, College of Business Administration"""
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
-
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "President"
+  company = "Destination Strategy Partners"
   company_url = ""
-  location = "California"
+  location = "Florida"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
