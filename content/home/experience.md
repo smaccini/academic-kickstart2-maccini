@@ -31,8 +31,8 @@ date_format = "Jan 2006"
   company = "Destination Strategy Partners"
   company_url = ""
   location = "Florida"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2015-08-01"
+  date_end = "2017-08-01"
+  description = """Strategic planning, business intelligence, and destination learning."""
 
 +++
