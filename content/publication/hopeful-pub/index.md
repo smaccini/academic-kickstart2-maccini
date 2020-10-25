@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Hopeful Pub"
+title: "Exploring the Visitor Perspective of Destination and Museum Treasure Hunt Games Compared to Sponsor Intent"
 authors: []
 date: 2020-10-24T20:10:47-04:00
 doi: ""
@@ -13,16 +13,16 @@ publishDate: 2020-10-24T20:10:47-04:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "TBD"
 publication_short: ""
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Destinations and attractions exist in the sphere of entertainment, with interactive games serving to further the entertainment purpose.  In the social media era, visitors ahre those experiences frequently, thereby creating a form of word of mouth advertising on behalf of the destination or attraction sponsoring the game creating a dual purpose that may be intended as a form of entertainment but instead function as advertising."
 
 tags: []
 categories: []
