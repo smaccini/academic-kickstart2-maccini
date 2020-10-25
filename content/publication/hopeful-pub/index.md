@@ -19,10 +19,10 @@ publication_types: ["3"]
 publication: "TBD"
 publication_short: ""
 
-abstract: ""
+abstract: "Destinations and attractions exist in the sphere of entertainment, with interactive games serving to further the entertainment purpose.  In the social media era, visitors ahre those experiences frequently, thereby creating a form of word of mouth advertising on behalf of the destination or attraction sponsoring the game creating a dual purpose that may be intended as a form of entertainment but instead function as advertising."
 
 # Summary. An optional shortened abstract.
-summary: "Destinations and attractions exist in the sphere of entertainment, with interactive games serving to further the entertainment purpose.  In the social media era, visitors ahre those experiences frequently, thereby creating a form of word of mouth advertising on behalf of the destination or attraction sponsoring the game creating a dual purpose that may be intended as a form of entertainment but instead function as advertising."
+summary: "Interactive treasure hunt game: entertainment, advertisng, or both?"
 
 tags: []
 categories: []
